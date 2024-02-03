@@ -53,11 +53,11 @@ const Nav = () => {
            "title": "Home",
             "href":"/"
         },
-        {
-             "id":2,
-            "title": " Meet Mira",
-             "href":"about"
-        },
+        // {
+        //      "id":2,
+        //     "title": " Meet Mira",
+        //      "href":"about"
+        // },
       
         
         
@@ -65,19 +65,10 @@ const Nav = () => {
        
         {
             "id":3,
-           "title": " Yoga Classes ",
-            "href":"/credentials "
+           "title": " Week's schedule ",
+            "href":"/schedule "
         },
-        {
-             "id":4,
-            "title": "For Yoga Teachers",
-             "href":"services"
-         },
-         {
-            "id":4,
-           "title": "Retreats",
-            "href":"servicess"
-        },
+        // sss
         {
             "id":5,
            "title": "Podcast",
@@ -87,7 +78,7 @@ const Nav = () => {
         {
             "id":5,
            "title": "Contact Mira",
-            "href":"/blog"
+            "href":"/contact"
         },
     
     ]
